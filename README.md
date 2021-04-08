@@ -8,5 +8,5 @@
 * CSS
 *JavaScript
 
-# IDE used
+## IDE used
 * Visual Studio Code
