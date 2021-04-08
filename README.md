@@ -6,7 +6,7 @@
 ## Languages used
 * HTML
 * CSS
-*JavaScript
+* JavaScript
 
 ## IDE used
 * Visual Studio Code
